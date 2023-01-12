@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=karta13373580&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karta13373580&show_icons=true&theme=radical)  
 ![](https://img.shields.io/badge/%E6%92%B0%E5%AF%AB%E5%B7%A5%E5%85%B7-Vs%20code-blue)
 
 
