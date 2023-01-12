@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/%E6%92%B0%E5%AF%AB%E5%B7%A5%E5%85%B7-Vs%20code-blue)
+
+
 <!--
 **karta13373580/karta13373580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
